@@ -6,7 +6,7 @@ This is level 1 header above this paragraph. Also, you may see the level 2 and l
 
 ### Level 3 header
 
-Some part of the text can be 'quoted'.
+Some part of the text can be `quoted`.
 
 You also may use **bold**, *italic*, and even ~~strikethtough~~ fonts. 
 
